@@ -10,7 +10,7 @@
  [Xiaobai Li](http://daibo.info/)<sup>5</sup>,
  [Guoying Zhao](http://dahualin.org/)<sup>6</sup> <br>
  <sup>1</sup> Center for Machine Vision and Signal Analysis, University of Oulu,Finland <br>
- <sup>2</sup> School of Electrical and Information Engineering, Tianjin University,China
+ <sup>2</sup> [School of Electrical and Information Engineering, Tianjin University,China](http://seea.tju.edu.cn/)
 
 <div align="center">
     <img src="pictures/Fig2.png">
