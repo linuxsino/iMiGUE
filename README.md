@@ -3,7 +3,7 @@
 ## Paper（待更新我们的链接）
 ### [Project Page](https://sdolivia.github.io/FineGym/) | [Videos](https://www.youtube.com/playlist?list=PL2wRKCL5yrJRBnIxWhmVr3xLJahdK5DGJ) | [Paper](https://arxiv.org/abs/2004.06704)
 [iMiGUE: An Identity-free Video Dataset for Micro-Gesture Understanding and Emotion Analysis](https://sdolivia.github.io/FineGym/) <br>
- [Xin Liu](https://sdolivia.github.io/)<sup>1</sup>,
+ [Xin Liu](http://seea.tju.edu.cn/info/1015/2158.htm)<sup>1</sup>,
  [Henglin Shi](https://zhaoyue-zephyrus.github.io)<sup>2</sup>,
  [Haoyu Chen](http://daibo.info/)<sup>3</sup>,
  [Zitong Yu](http://daibo.info/)<sup>4</sup>,
