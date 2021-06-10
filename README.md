@@ -4,13 +4,13 @@
 ### [Project Page](https://sdolivia.github.io/FineGym/) | [Videos](https://www.youtube.com/playlist?list=PL2wRKCL5yrJRBnIxWhmVr3xLJahdK5DGJ) | [Paper](https://arxiv.org/abs/2004.06704)
 [iMiGUE: An Identity-free Video Dataset for Micro-Gesture Understanding and Emotion Analysis](https://sdolivia.github.io/FineGym/) <br>
  [Xin Liu](http://seea.tju.edu.cn/info/1015/2158.htm)<sup>1</sup>,
- [Henglin Shi](https://zhaoyue-zephyrus.github.io)<sup>2</sup>,
- [Haoyu Chen](http://daibo.info/)<sup>3</sup>,
- [Zitong Yu](http://daibo.info/)<sup>4</sup>,
- [Xiaobai Li](http://daibo.info/)<sup>5</sup>,
- [Guoying Zhao](http://dahualin.org/)<sup>6</sup> <br>
+ Henglin Shi<sup>2</sup>,
+ Haoyu Chen<sup>3</sup>,
+ Zitong Yu<sup>4</sup>,
+ Xiaobai Li<sup>5</sup>,
+ Guoying Zhao<sup>6</sup> <br>
  <sup>1</sup> Center for Machine Vision and Signal Analysis, University of Oulu,Finland <br>
- <sup>2</sup> [School of Electrical and Information Engineering, Tianjin University,China](http://seea.tju.edu.cn/)
+ <sup>2</sup> School of Electrical and Information Engineering, Tianjin University,China
 
 <div align="center">
     <img src="pictures/Fig2.png">
@@ -89,9 +89,9 @@
 
 ## Citation
 ```
-@inproceedings{shao2020finegym,
-title={FineGym: A Hierarchical Video Dataset for Fine-grained Action Understanding},
-author={Shao, Dian and Zhao, Yue and Dai, Bo and Lin, Dahua},
+@inproceedings{Liu2021imigue,
+title={iMiGUE: An Identity-free Video Dataset for Micro-Gesture Understanding and Emotion Analysis},
+author={Xin Liu, Henglin Shi, Haoyu Chen, Zitong Yu, Xiaobai Li, Guoying Zhao},
 booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-year={2020}
+year={2021}
 }
