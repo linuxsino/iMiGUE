@@ -44,8 +44,10 @@ We collected 359 videos of post match press conferences of Grand Slam tournament
 <div align="center" class = "half">
  <img src ="pictures/scratching-neck.gif"  width = "48%" align = left><img src = "pictures/rubbing-eyes.gif"  width = "48%" align = right>
 </div>
+Floading arms/covering face/Scratching neck/Rubbing eyes
 
-
+<br>
+<br>
 ## MethodZoo
 ### Comparison of MG recognition accuracy (%) with state-of-the-art algorithms on the iMiGUE dataset.
 
