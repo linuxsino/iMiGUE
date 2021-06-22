@@ -37,29 +37,15 @@ We collected 359 videos of post match press conferences of Grand Slam tournament
 
 ### Micro-Gestures examples
 
-<div>
- <img src="pictures/folding-arms.gif">
-</div>
+
+<img src="pictures/folding-arms.gif">
 Folding arms
-<br>
-<div>
- <img src="pictures/covering-face.gif">
-</div>
-<br>
+<img src="pictures/covering-face.gif">
 Covering face
-<br>
-<div>
- <img src="pictures/scratching-neck.gif">
-</div>
-<br>
+<img src="pictures/scratching-neck.gif">
 Scratching neck
-<br>
-<div>
- <img src="pictures/rubbing-eyes.gif">
-</div>
-<br>
+<img src="pictures/rubbing-eyes.gif">
 Rubbing eyes
-<br>
 
 ### Download
 Please submit a Google form at this [link](https://docs.google.com/forms/d/e/1FAIpQLSeZhK4l_mzyBOIn8mb4IyIcUMueoidGOGX0IYxEMqNeXvV4nA/viewform?usp=sf_link). We may reach you shortly.
