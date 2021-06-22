@@ -40,13 +40,10 @@ We collected 359 videos of post match press conferences of Grand Slam tournament
 
 <img src="pictures/folding-arms.gif">
 Folding arms
-<br>
 <img src="pictures/covering-face.gif">
 Covering face
-<br>
 <img src="pictures/scratching-neck.gif">
 Scratching neck
-<br>
 <img src="pictures/rubbing-eyes.gif">
 Rubbing eyes
 
