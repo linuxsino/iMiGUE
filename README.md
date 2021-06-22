@@ -20,7 +20,7 @@ iMiGUE: An Identity-free Video Dataset for Micro-Gesture Understanding and Emoti
 ## Contents
 1. [Paper](#Paper) [Information about the paper.]
 2. [Abstract](#Abstract)
-3. [Data](#Dataset Statistics and Properties) [Some details about our dataset.]
+3. [Data](# Dataset Statistics and Properties) [Some details about our dataset.]
 4. [Method Zoo](#MethodZoo) [Results of different methods on iMiGUE.]
 5. [Citation](#Citation)
 
