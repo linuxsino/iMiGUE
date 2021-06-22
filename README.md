@@ -2,15 +2,16 @@
 
 ## Paper
 ### [Videos](link.xlsx) | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_iMiGUE_An_Identity-Free_Video_Dataset_for_Micro-Gesture_Understanding_and_Emotion_CVPR_2021_paper.pdf)
-[iMiGUE: An Identity-free Video Dataset for Micro-Gesture Understanding and Emotion Analysis](https://sdolivia.github.io/FineGym/) <br>
+iMiGUE: An Identity-free Video Dataset for Micro-Gesture Understanding and Emotion Analysis <br>
  [Xin Liu](http://seea.tju.edu.cn/info/1015/2158.htm)<sup>1</sup>,
  Henglin Shi<sup>2</sup>,
- Haoyu Chen<sup>3</sup>,
- Zitong Yu<sup>4</sup>,
- Xiaobai Li<sup>5</sup>,
- Guoying Zhao<sup>6</sup> <br>
- <sup>1</sup> Center for Machine Vision and Signal Analysis, University of Oulu,Finland <br>
- <sup>2</sup> School of Electrical and Information Engineering, Tianjin University,China
+ Haoyu Chen<sup>2</sup>,
+ Zitong Yu<sup>2</sup>,
+ Xiaobai Li<sup>2</sup>,
+ Guoying Zhao<sup>2</sup> <br>
+ <sup>1</sup> School of Electrical and Information Engineering, Tianjin University,China <br>
+ <sup>2</sup>  Center for Machine Vision and Signal Analysis, University of Oulu,Finland
+
 
 <div align="center">
     <img src="pictures/Fig2.png">
@@ -18,9 +19,13 @@
 
 ## Contents
 1. [Paper](#Paper) [Information about the paper.]
-2. [Method Zoo](#MethodZoo) [Results of different methods on iMiGUE.]
-3. [Citation](#Citation)
+2. [Abstract](#Abstract)
+3. [Method Zoo](#MethodZoo) [Results of different methods on iMiGUE.]
+4. [Citation](#Citation)
 
+## Abstract
+We introduce a new dataset for the emotional artificial intelligence research: identity-free video dataset for MicroGesture Understanding and Emotion analysis (iMiGUE). Different from existing public datasets, iMiGUE focuses on nonverbal body gestures without using any identity information, while the predominant researches of emotion analysis concern sensitive biometric data, like face and speech. Most importantly, iMiGUE focuses on micro-gestures, i.e., unintentional behaviors driven by inner feelings, which are different from ordinary scope of gestures from other gesture datasets which are mostly intentionally performed for illustrative purposes. Furthermore, iMiGUE is designed to evaluate the ability of models to analyze the emotional states by integrating information of recognized micro-gesture, rather than just recognizing prototypes in the sequences separately (or isolatedly). This is because the real need for emotion AI is to understand the emotional states behind gestures in a holistic way. Moreover , to counter for the challenge of imbalanced samples distribution of this dataset, an unsupervised learning method is proposed to capture latent representations from the micro-gesture sequences themselves. We systematically investigate representative methods on this dataset, and comprehensive experimental results reveal several interesting insights from the iMiGUE, e.g., micro-gesture-based analysis can promote emotion understanding. We confirm that the new iMiGUE dataset could advance studies of micro-
+gesture and emotion AI.
 
 ## MethodZoo
 ### Comparison of MG recognition accuracy (%) with state-of-the-art algorithms on the iMiGUE dataset.
