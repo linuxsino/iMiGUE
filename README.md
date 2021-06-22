@@ -38,8 +38,10 @@ We collected 359 videos of post match press conferences of Grand Slam tournament
 ### Micro-Gestures examples
 
 <center>
-<img src=src ="pictures/folding-arms.gif" />
-<img src=src ="pictures/scratching-neck.gif" />
+<figure>
+<img src ="pictures/folding-arms.gif" >
+<img src ="pictures/scratching-neck.gif" >
+</figure>
 </center>
 
 <div align="center" class = "half">
