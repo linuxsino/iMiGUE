@@ -39,8 +39,9 @@ We collected 359 videos of post match press conferences of Grand Slam tournament
 
 <center>
 <figure>
-<img src ="pictures/folding-arms.gif"  width = "30%" >
-<img src ="pictures/scratching-neck.gif" width = "30%">
+<img src ="pictures/folding-arms.gif"  width = "30%"/ >
+ 
+<img src ="pictures/scratching-neck.gif" width = "30%"/>
 </figure>
 </center>
 
