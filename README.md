@@ -32,6 +32,8 @@ We introduce a new dataset for the emotional artificial intelligence research: i
 <div align="center">
     <img src="pictures/dataset.png">
 </div>
+<br>
+We collected 359 videos of post match press conferences of Grand Slam tournaments. Here is the information of the iMiGUE. This dataset contains 72 players from 28 countries and regions covering very continent which enables MGs analysis from diverse cultures. iMiGUE comprises 36 female and 36 male players whose ages are between 17 and 38.
 
 ## MethodZoo
 ### Comparison of MG recognition accuracy (%) with state-of-the-art algorithms on the iMiGUE dataset.
