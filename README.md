@@ -37,41 +37,10 @@ We collected 359 videos of post match press conferences of Grand Slam tournament
 
 ### Micro-Gestures examples
 ```html
-          <table align=center width=720px>
-            <center><h1>Micro-Gestures examples</h1></center>
-            <tr>
-                <center>
+<center class = "half">
+<img src ="pictures/folding-arms.gif"  width = "50%" align = left><img src = "pictures/covering-face.gif"  width = "50%" align = right>
+</center>
 
-                <br>
-                </center>
-                <td width=360px>
-                    <center>
-                        <span style="font-size:22px"><a>Folding arms</a></span><br>
-                        <a><img onmouseover="this.src='./images/folding-arms.gif';" onmouseout="this.src='./images/folding-arms.gif';" src = "./images/folding-arms.gif" width = "400px"></img></a>
-                    </center>
-                </td>
-                <td width=360px>
-                    <center>
-                        <span style="font-size:22px"><a>Covering Face</a></span><br>
-                        <a><img onmouseover="this.src='./images/covering-face.gif';" onmouseout="this.src='./images/covering-face.gif';" src = "./images/covering-face.gif" width = "400px"></img></a>
-                    </center>
-                </td>
-            </tr>
-            <tr>
-                <td width=360px>
-                    <center>
-                        <span style="font-size:22px"><a>Scratching neck</a></span><br>
-                        <a><img onmouseover="this.src='./images/scratching-neck.gif';" onmouseout="this.src='./images/scratching-neck.gif';" src = "./images/scratching-neck.gif" width = "400px"></img></a>
-                    </center>
-                </td>
-                <td width=360px>
-                    <center>
-                        <span style="font-size:22px"><a>Rubbing eyes</a></span><br>
-                        <a><img onmouseover="this.src='./images/rubbing-eyes.gif';" onmouseout="this.src='./images/rubbing-eyes.gif';" src = "./images/rubbing-eyes.gif" width = "400px"></img></a>
-                    </center>
-                </td>
-            </tr>
-          </table>
 
 ## MethodZoo
 ### Comparison of MG recognition accuracy (%) with state-of-the-art algorithms on the iMiGUE dataset.
