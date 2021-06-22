@@ -46,6 +46,9 @@ We collected 359 videos of post match press conferences of Grand Slam tournament
 </div>
 Floading arms/covering face/Scratching neck/Rubbing eyes
 
+### Download
+Please submit a Google form at this [link]. We may reach you shortly.
+
 ## MethodZoo
 ### Comparison of MG recognition accuracy (%) with state-of-the-art algorithms on the iMiGUE dataset.
 
