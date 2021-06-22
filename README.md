@@ -20,7 +20,7 @@ iMiGUE: An Identity-free Video Dataset for Micro-Gesture Understanding and Emoti
 ## Contents
 1. [Paper](#Paper) [Information about the paper.]
 2. [Abstract](#Abstract)
-3. [Data](#Data) [Some details about our dataset and you can down load data here.]
+3. [Data](#Data) [Some details about our dataset and download.]
 4. [Method Zoo](#MethodZoo) [Results of different methods on iMiGUE.]
 5. [Citation](#Citation)
 
@@ -34,6 +34,44 @@ We introduce a new dataset for the emotional artificial intelligence research: i
 </div>
 <br>
 We collected 359 videos of post match press conferences of Grand Slam tournaments. Here is the information of the iMiGUE. This dataset contains 72 players from 28 countries and regions covering very continent which enables MGs analysis from diverse cultures. iMiGUE comprises 36 female and 36 male players whose ages are between 17 and 38.
+
+### Micro-Gestures examples
+```html
+          <table align=center width=720px>
+            <center><h1>Micro-Gestures examples</h1></center>
+            <tr>
+                <center>
+
+                <br>
+                </center>
+                <td width=360px>
+                    <center>
+                        <span style="font-size:22px"><a>Folding arms</a></span><br>
+                        <a><img onmouseover="this.src='./images/folding-arms.gif';" onmouseout="this.src='./images/folding-arms.gif';" src = "./images/folding-arms.gif" width = "400px"></img></a>
+                    </center>
+                </td>
+                <td width=360px>
+                    <center>
+                        <span style="font-size:22px"><a>Covering Face</a></span><br>
+                        <a><img onmouseover="this.src='./images/covering-face.gif';" onmouseout="this.src='./images/covering-face.gif';" src = "./images/covering-face.gif" width = "400px"></img></a>
+                    </center>
+                </td>
+            </tr>
+            <tr>
+                <td width=360px>
+                    <center>
+                        <span style="font-size:22px"><a>Scratching neck</a></span><br>
+                        <a><img onmouseover="this.src='./images/scratching-neck.gif';" onmouseout="this.src='./images/scratching-neck.gif';" src = "./images/scratching-neck.gif" width = "400px"></img></a>
+                    </center>
+                </td>
+                <td width=360px>
+                    <center>
+                        <span style="font-size:22px"><a>Rubbing eyes</a></span><br>
+                        <a><img onmouseover="this.src='./images/rubbing-eyes.gif';" onmouseout="this.src='./images/rubbing-eyes.gif';" src = "./images/rubbing-eyes.gif" width = "400px"></img></a>
+                    </center>
+                </td>
+            </tr>
+          </table>
 
 ## MethodZoo
 ### Comparison of MG recognition accuracy (%) with state-of-the-art algorithms on the iMiGUE dataset.
