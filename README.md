@@ -40,7 +40,6 @@ We collected 359 videos of post match press conferences of Grand Slam tournament
 <div>
  <img src="pictures/folding-arms.gif">
 </div>
-<br>
 Folding arms
 <br>
 <div>
