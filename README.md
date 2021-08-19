@@ -1,5 +1,10 @@
 # iMiGUE
 
+## Note
+### 2021/8/19
+We updated the video links file [Link_V2.xlsx](Link_V2.xlsx).<br>
+We upload [evaluation protocal.pdf](https://github.com/linuxsino/iMiGUE/blob/main/evaluation%20protocol.pdf)
+
 ## Paper
 ### [Videos](link.xlsx) | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_iMiGUE_An_Identity-Free_Video_Dataset_for_Micro-Gesture_Understanding_and_Emotion_CVPR_2021_paper.pdf)
 iMiGUE: An Identity-free Video Dataset for Micro-Gesture Understanding and Emotion Analysis <br>
