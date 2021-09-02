@@ -1,6 +1,9 @@
 # iMiGUE
 
 ## Note
+### 2021/9/2
+In order to protect the privacy of the people in the video, we have temporarily deleted Link_V2.xlsx. Future updates will be posted here.
+
 ### 2021/8/19
 We updated the video links file [Link_V2.xlsx](Link_V2.xlsx).<br>
 We uploaded [evaluation protocal.pdf](https://github.com/linuxsino/iMiGUE/blob/main/evaluation%20protocol.pdf).
@@ -14,8 +17,8 @@ iMiGUE: An Identity-free Video Dataset for Micro-Gesture Understanding and Emoti
  Zitong Yu<sup>2</sup>,
  Xiaobai Li<sup>2</sup>,
  Guoying Zhao<sup>2</sup> <br>
- <sup>1</sup> School of Electrical and Information Engineering, Tianjin University,China <br>
- <sup>2</sup>  Center for Machine Vision and Signal Analysis, University of Oulu,Finland
+ <sup>1</sup> School of Electrical and Information Engineering, Tianjin University, China <br>
+ <sup>2</sup>  Center for Machine Vision and Signal Analysis, University of Oulu, Finland
 
 
 <div align="center">
