@@ -58,7 +58,7 @@ We collected 359 videos of post match press conferences of Grand Slam tournament
 The above four pictures are examples of Micro-Gestures, from top to bottom: Folding arms/Covering face/Scratching neck/Rubbing eyes.
  
 ### Download
-Please submit a Google form at this [link](https://docs.google.com/forms/d/e/1FAIpQLSeZhK4l_mzyBOIn8mb4IyIcUMueoidGOGX0IYxEMqNeXvV4nA/viewform?usp=sf_link). We may reach you shortly.
+Please go to this [link](https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-machine-vision-and-signal-analysis#accordion-control-imigue-database).
 
 ## MethodZoo
 ### Comparison of MG recognition accuracy (%) with state-of-the-art algorithms on the iMiGUE dataset.
